@@ -4,22 +4,9 @@
 //In this lesson we are going to cover six different access modifiers and when you would use each. 
 //We are also going to discuss why we have various modifiers and it isn't just about security.
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DemoLibrary;
-
 namespace AccessModifiers_CS
 {
-    class Program
+    internal class AccessDemmo
     {
-        static void Main(string[] args)
-        {
-            AccessDemo demo = new AccessDemo();
-
-            demo.
-        }
     }
 }
